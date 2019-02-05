@@ -1,0 +1,22 @@
+.user-list {
+    display: flex;
+    margin-top: 100px;
+}
+
+.users-item {
+    margin-left: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: blue;
+    font-size: 15px;
+}
+
+.users-item:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+.content {
+    margin-top: 80px;
+    margin-left: 100px;
+}
